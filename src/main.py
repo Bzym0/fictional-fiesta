@@ -1,0 +1,2 @@
+def gnio():
+    print ("gnio")
